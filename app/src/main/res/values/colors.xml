@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_60_opacity">#96FFFFFF</color>
+
+    <color name="gradientStartColor">#BB86FC</color>
+    <color name="gradientEndColor">#6200EE</color>
+
+    <color name="gradientStartColor200">#96caff</color>
+    <color name="gradientStartColor900">#3842ad</color>
+
+    <color name="blackHighEmphasis">#DE000000</color>
+
+    <color name="slightBlueTint">#FBFDFF</color>
+
+    <color name="transparentTextviewBackground">#CC000000</color>
+
+    <color name="dividerColor">#1F000000</color>
+
+    <color name="defaultTextColor">#808080</color>
+
+    <color name="triGreenColor">#47B647</color>
+    <color name="triRedColor">#b64747</color>
+
+    <color name="backgroundColor">#EEEEEE</color>
+
+    <color name="textColorHighEmphasis">#DE000000</color>
+    <color name="darkTextColorHighEmphasis">#DEFFFFFF</color>
+    <color name="darkTextColorMediumEmphasis">#96FFFFFF</color>
+
+</resources>
